@@ -1,25 +1,5 @@
 :root {
-    --bg-color: #ffffff;
-    --text-color: #000000;
-  
-    /* DOCS STYLES */
-    --docs-bg-color: #ffffff;
-    --docs-text-color: #24292e;
-    --docs-link-color: #0366d6;
-    --docs-blockquote-bg: #f6f8fa;
-    --docs-blockquote-border: #dfe2e5;
-    --docs-code-bg: #f6f8fa;
-    --docs-code-text: #24292e;
-    --docs-hr-color: #e1e4e8;
-    --docs-table-border: #dfe2e5;
-    --docs-table-header-bg: #f6f8fa;
-}
-
-[data-theme="dark"] {
-    --bg-color: #252525;
-    --text-color: #ffffff;
-
-     /* DOCS STYLES */
+    --bg-color: #0d1117;
     --docs-bg-color: #0d1117;
     --docs-text-color: #c9d1d9;
     --docs-link-color: #58a6ff;
@@ -33,17 +13,9 @@
 }
 
 body {
-    display: none;
     background: var(--bg-color);
     color: var(--text-color);
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin: 0;
-    padding: 0;
-    text-align: center;
-    transition: background-color 0.2s, color 0.2s;
-    min-height: 100vh;
 }
-
 
 .markdownarea {
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
@@ -137,10 +109,6 @@ body {
 .markdownarea a:hover { text-decoration: underline; }
 .markdownarea ul { padding-left: 2rem; margin-top: 0.5em; }
 .markdownarea ol { padding-left: 2rem; margin-top: 0.5em; }
-
-body {
-  
-}
 
 .markdownarea blockquote {
     border-left: 4px solid var(--docs-blockquote-border);
