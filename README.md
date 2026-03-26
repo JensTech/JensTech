@@ -1,4 +1,4 @@
-# hey, I'm Jens :)
+# hey, i'm Jens :)
 ### i make niche things
 
 i do make the odd project here and there, but most of my work lives in private repos.
@@ -9,18 +9,24 @@ i like messing with AI and web stuff.
 ## about me
 - age: 14
 - favourite languages: HTML, CSS, JS, PHP
-- i started developing software at 9 years old
+- i started developing software at **9** years old
 - huge procrastinator
 
 ## projects
 - [Sparx-AI-Tools](//github.com/JensTech/Sparx-AI-Tools/)
   > A simple chrome extension to assist you with Sparx Reader/Science homework
-  > **Language:** JS
+  > **Language:** JS, CSS
 - [Gitpullinator](//github.com/JensTech/gitpullinator)
   > Small react app to pull and compress only exactly what you want from a github repo
   > **Language:** React Native, JS, A Little HTML
 - More to come soon
   > I currently have like 5 more projects in the works, but don't have time!
+
+## orgs
+i have worked on the site for my local archery club for a few years. 
+this helped me gain lots of css, js, html and php experience.
+when i started out years ago, i did auth client sided!
+nowadays, i maintain a backend too which **is** properly auth secured
 
 ## contact
 [email](mailto:jens@jenstech.qzz.io)
