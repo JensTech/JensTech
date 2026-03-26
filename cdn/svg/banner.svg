@@ -85,7 +85,7 @@
 
   <!-- Line 2: output -->
 
-<text x="62" y="122" font-family="'Courier New', monospace" font-size="13" fill="#c0cce0">Jens - niche things builder</text>
+<text x="62" y="122" font-family="'Courier New', monospace" font-size="13" fill="#c0cce0">Jens</text>
 
   <!-- Line 3: prompt -->
 
@@ -124,7 +124,7 @@
     <tspan fill="#4a6080"> $ </tspan>
   </text>
   <!-- Blinking cursor block -->
-  <rect x="220" y="188" width="8" height="14" fill="#00ff88" opacity="0.9" filter="url(#glow)"/>
+  <rect x="220" y="188" width="4" height="14" fill="#00ff88" opacity="0.9" filter="url(#glow)"/>
 
   <!-- Line 6: URL at bottom of terminal -->
 
@@ -134,7 +134,7 @@
 
 <text x="680" y="130" font-family="'Courier New', monospace" font-size="62" font-weight="bold" fill="none" stroke="#1e3050" stroke-width="1" letter-spacing="-1">JensTech</text>
 <text x="680" y="130" font-family="'Courier New', monospace" font-size="62" font-weight="bold" letter-spacing="-1">
-<tspan fill="#00ff88">Jens</tspan><tspan fill="#e0e8f0">Tech</tspan>
+<tspan fill="#00ff88">Jens</tspan><tspan fill="#00ff88">Tech</tspan>
 </text>
 
   <!-- Decorative line under username -->
@@ -143,11 +143,11 @@
 
   <!-- GitHub URL -->
 
-<text x="682" y="172" font-family="'Courier New', monospace" font-size="15" fill="#4a6080">github.com/<tspan fill="#0088ff">JensTech</tspan></text>
+<text x="682" y="172" font-family="'Courier New', monospace" font-size="15" fill="#4a6080">jenstech.qzz.io</text>
 
   <!-- Tag line -->
 
-<text x="682" y="210" font-family="'Courier New', monospace" font-size="13" fill="#2a5040">// i need docs</text>
+<text x="682" y="210" font-family="'Courier New', monospace" font-size="13" fill="#2a5040">// i make better docs then apis</text>
 
   <!-- Stack badges row -->
 
