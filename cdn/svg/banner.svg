@@ -85,7 +85,7 @@
 
   <!-- Line 2: output -->
 
-<text x="62" y="122" font-family="'Courier New', monospace" font-size="13" fill="#c0cce0">JensTech — niche things builder</text>
+<text x="62" y="122" font-family="'Courier New', monospace" font-size="13" fill="#c0cce0">JensTech â€” niche things builder</text>
 
   <!-- Line 3: prompt -->
 
@@ -124,7 +124,7 @@
     <tspan fill="#4a6080"> $ </tspan>
   </text>
   <!-- Blinking cursor block -->
-  <rect x="242" y="188" width="8" height="14" fill="#00ff88" opacity="0.9" filter="url(#glow)"/>
+  <rect x="170" y="188" width="8" height="14" fill="#00ff88" opacity="0.9" filter="url(#glow)"/>
 
   <!-- Line 6: URL at bottom of terminal -->
 
@@ -147,7 +147,7 @@
 
   <!-- Tag line -->
 
-<text x="682" y="210" font-family="'Courier New', monospace" font-size="13" fill="#2a5040">// mostly private repos. occasional chaos.</text>
+<text x="682" y="210" font-family="'Courier New', monospace" font-size="13" fill="#2a5040">// i need docs</text>
 
   <!-- Stack badges row -->
 
