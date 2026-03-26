@@ -11,10 +11,10 @@ i like messing with AI and web stuff.
 - huge procrastinator
 
 ## projects
-- Sparx-AI-Tools
+- [Sparx-AI-Tools](//github.com/JensTech/Sparx-AI-Tools/)
   > A simple chrome extension to assist you with Sparx Reader/Science homework
   > **Language:** JS
-- Gitpullinator
+- [Gitpullinator](//github.com/JensTech/gitpullinator)
   > Small react app to pull and compress only exactly what you want from a github repo
   > **Language:** React Native, JS, A Little HTML
 - More to come soon
