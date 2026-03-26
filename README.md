@@ -7,7 +7,7 @@ i like messing with AI and web stuff.
 ## about me
 - age: 14
 - favourite languages: HTML, CSS, JS, PHP
-- i started developing software at age 9
+- i started developing software at 9 years old
 - huge procrastinator
 
 ## projects
