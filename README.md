@@ -30,5 +30,7 @@ nowadays, i maintain a backend too which **is** properly auth secured
 
 ## contact
 [email](mailto:jens@jenstech.qzz.io)
-
+<details>
+<summary>graphic design</summary>
 <img src="https://cdn.dribbble.com/userupload/22148904/file/original-56b19720d83b146e748d69554e264aff.jpg" width="300">
+</details>
