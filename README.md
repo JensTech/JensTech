@@ -8,8 +8,7 @@ i like messing with AI and web stuff.
 
 ## about me
 - age: 14
-- favourite languages: HTML, CSS, JS, PHP
-- i started developing software at **9** years old
+- favourite languages: HTML, CSS, JS, PHP, Python
 - huge procrastinator
 
 ## projects
@@ -25,8 +24,6 @@ i like messing with AI and web stuff.
 ## orgs
 i have worked on the site for my local archery club for a few years. 
 this helped me gain lots of css, js, html and php experience.
-when i started out years ago, i did auth client sided!
-nowadays, i maintain a backend too which **is** properly auth secured
 
 ## contact
 [email](mailto:jens@jenstech.qzz.io)
