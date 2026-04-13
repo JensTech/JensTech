@@ -17,7 +17,7 @@ i like messing with AI and web stuff.
   > **Language:** JS, CSS
 - [Gitpullinator](//github.com/JensTech/gitpullinator)
   > Small react app to pull and compress only exactly what you want from a github repo
-  > **Language:** React Native, JS, A Little HTML
+  > **Language:** React Web, JS, A Little HTML
 - More to come soon
   > I currently have like 5 more projects in the works, but don't have time!
 
