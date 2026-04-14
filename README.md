@@ -21,13 +21,9 @@ i like messing with AI and web stuff.
 - More to come soon
   > I currently have like 5 more projects in the works, but don't have time!
 
-## orgs
+## experience
 i have worked on the site for my local archery club for a few years. 
 this helped me gain lots of css, js, html and php experience.
 
 ## contact
-[email](mailto:jens@jenstech.qzz.io)
-<details>
-<summary>graphic design</summary>
-<img src="https://cdn.dribbble.com/userupload/22148904/file/original-56b19720d83b146e748d69554e264aff.jpg" width="300">
-</details>
+[email](mailto:contact@jenstech.qzz.io)
