@@ -1,5 +1,5 @@
-# hey, i'm Jens :)
-### i make niche things
+# hey, i'm Chloe :)
+### i make niche projects
 
 i do make the odd project here and there, but most of my work lives in private repos.
 i like messing with AI and web stuff.
