@@ -7,7 +7,6 @@ i like messing with AI and web stuff.
 ![banner](/cdn/svg/banner.svg)
 
 ## about me
-- age: 14
 - favourite languages: HTML, CSS, JS, PHP, Python
 - huge procrastinator
 
