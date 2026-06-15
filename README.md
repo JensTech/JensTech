@@ -28,4 +28,4 @@ this helped me gain lots of css, js, html and php experience.
 [email](mailto:contact@jenstech.qzz.io)
 
 ## meaningless stats
-[![](https://github-readme-stats.vercel.app/api?username=jenstech)](https://github.com/jenstech)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=jenstech&layout=compact)](https://github.com/jenstech)
