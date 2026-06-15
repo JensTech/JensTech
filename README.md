@@ -26,3 +26,6 @@ this helped me gain lots of css, js, html and php experience.
 
 ## contact
 [email](mailto:contact@jenstech.qzz.io)
+
+## meaningless stats
+[![Chloe's GitHub stats](https://github-readme-stats.vercel.app/api?username=jenstech)](https://github.com/jenstech)
