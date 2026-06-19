@@ -4,7 +4,7 @@
 i do make the odd project here and there, but most of my work lives in private repos.
 i like messing with AI and web stuff.
 
-![banner](/cdn/svg/banner.svg)
+![](https://raw.githubusercontent.com/JensTech/JensTech/551b6c47c63f8280bebe3a890a07f1ced5ebc9e9/cdn/svg/banner.svg)
 
 ## about me
 - favourite languages: HTML, CSS, JS, PHP, Python
