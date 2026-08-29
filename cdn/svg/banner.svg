@@ -2,71 +2,73 @@
   <title>Chloe GitHub Banner</title>
 
   <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Cursive:wght@400..700&amp;display=swap');
+    </style>
+
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0b0f1a"/>
-      <stop offset="100%" stop-color="#0d1424"/>
+      <stop offset="0%" stop-color="#1c1130"/>
+      <stop offset="55%" stop-color="#2a1a45"/>
+      <stop offset="100%" stop-color="#221238"/>
     </linearGradient>
 
-    <radialGradient id="lightTopRight" cx="100%" cy="0%" r="70%">
-      <stop offset="0%" stop-color="#7c5cff" opacity="0.14"/>
-      <stop offset="60%" stop-color="#3b82f6" opacity="0.06"/>
-      <stop offset="100%" stop-color="#000000" opacity="0"/>
-    </radialGradient>
+    <linearGradient id="ribbonGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ff8fb3"/>
+      <stop offset="100%" stop-color="#e56b9a"/>
+    </linearGradient>
 
-    <radialGradient id="lightBottomLeft" cx="0%" cy="100%" r="80%">
-      <stop offset="0%" stop-color="#3b82f6" opacity="0.08"/>
-      <stop offset="100%" stop-color="#000000" opacity="0"/>
-    </radialGradient>
+    <pattern id="texture" width="26" height="26" patternTransform="rotate(45)" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="0" y2="26" stroke="#fdf4ff" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
 
     <clipPath id="round">
-      <rect width="680" height="310" rx="18"/>
+      <rect width="680" height="310" rx="22"/>
     </clipPath>
   </defs>
 
   <!-- base -->
   <rect width="680" height="310" fill="url(#bg)" clip-path="url(#round)"/>
+  <rect width="680" height="310" fill="url(#texture)" clip-path="url(#round)"/>
 
-  <!-- lighting -->
-  <rect width="680" height="310" fill="url(#lightTopRight)" clip-path="url(#round)"/>
-  <rect width="680" height="310" fill="url(#lightBottomLeft)" clip-path="url(#round)"/>
+  <!-- folded ribbon corner -->
+  <g clip-path="url(#round)">
+    <path d="M680 0 L680 92 L588 0 Z" fill="url(#ribbonGrad)" opacity="0.9"/>
+    <path d="M680 92 L680 108 L572 0 L588 0 Z" fill="#1c1130" opacity="0.25"/>
+  </g>
 
-  <!-- main identity -->
-  <text x="60" y="150"
-        font-family="-apple-system, BlinkMacSystemFont, Inter, system-ui, sans-serif"
-        font-size="54"
-        font-weight="1000"
-        fill="#e8ecf3">
+  <!-- scattered shapes filling the margins, kept out of the text column -->
+  <g clip-path="url(#round)">
+    <circle cx="40" cy="46" r="16" fill="#ff8fb3" opacity="0.16"/>
+    <circle cx="628" cy="180" r="10" fill="none" stroke="#b794f6" stroke-width="2" opacity="0.35"/>
+    <rect x="592" y="240" width="22" height="22" rx="6" fill="#7bdff2" opacity="0.16" transform="rotate(18 603 251)"/>
+    <circle cx="34" cy="200" r="4" fill="#7bdff2" opacity="0.4"/>
+    <circle cx="650" cy="60" r="3" fill="#fdf4ff" opacity="0.4"/>
+    <rect x="600" y="20" width="14" height="14" rx="4" fill="#fdf4ff" opacity="0.08" transform="rotate(-12 607 27)"/>
+    <circle cx="52" cy="270" r="6" fill="none" stroke="#ff8fb3" stroke-width="1.5" opacity="0.3"/>
+  </g>
+
+  <!-- name, cursive -->
+  <text x="58" y="150"
+        font-family="'Edu NSW ACT Cursive', 'Segoe Script', 'Brush Script MT', cursive"
+        font-size="88"
+        font-weight="700"
+        fill="#fdf4ff">
     Chloe
   </text>
 
-  <text x="60" y="182"
-        font-family="-apple-system, BlinkMacSystemFont, Inter, system-ui, sans-serif"
-        font-size="15"
-        fill="#94a3b8">
-    Full-stack developer
-  </text>
+  <!-- hand-drawn style underline -->
+  <path d="M62 172 C 100 165, 130 179, 168 170 C 195 163, 220 175, 248 168"
+        fill="none" stroke="#ff8fb3" stroke-width="3.5" stroke-linecap="round" opacity="0.85"/>
 
-  <!-- accent line -->
-  <line x1="60" y1="200" x2="340" y2="200" stroke="#7c5cff" opacity="0.25"/>
-
-  <!-- tech stack -->
-  <text x="60" y="230"
+  <!-- GitHub url, right under the squiggle, room left below for a future site link -->
+  <text x="60" y="210"
         font-family="-apple-system, BlinkMacSystemFont, Inter, system-ui, sans-serif"
-        font-size="13"
-        fill="#ffffff">
-    PHP · TypeScript · React
-  </text>
-
-  <!-- GitHub link -->
-  <text x="520" y="285"
-        font-family="-apple-system, BlinkMacSystemFont, Inter, system-ui, sans-serif"
-        font-size="12"
-        fill="#94a3b8"
-        opacity="0.9">
-    https://github.com/JensTech
+        font-size="19"
+        fill="#c9b8e0">
+    github.com/JensTech
   </text>
 
   <!-- subtle border -->
-  <rect x="1" y="1" width="678" height="308" rx="18"
-        fill="none" stroke="#ffffff" opacity="0.05"/>
+  <rect x="1" y="1" width="678" height="308" rx="22"
+        fill="none" stroke="#ffffff" opacity="0.06"/>
 </svg>
