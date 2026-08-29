@@ -1,31 +1,21 @@
-# hey, i'm Chloe :)
-### i make niche projects
+# hey, i'm Chloe :3
+![](/cdn/svg/banner.svg)
+i make random projects which are useful as and when
 
 i do make the odd project here and there, but most of my work lives in private repos.
 i like messing with AI and web stuff.
 
-![](https://raw.githubusercontent.com/JensTech/JensTech/551b6c47c63f8280bebe3a890a07f1ced5ebc9e9/cdn/svg/banner.svg)
-
-## about me
+## the languages i use
 - favourite languages: HTML, CSS, JS, PHP, Python
-- huge procrastinator
+- i'm currently learning c++
 
 ## projects
 - [Sparx-AI-Tools](//github.com/JensTech/Sparx-AI-Tools/)
-  > A simple chrome extension to assist you with Sparx Reader/Science homework
+  > A simple chrome extension to assist you with Sparx Reader/Science homework<br>
   > **Language:** JS, CSS
-- [Gitpullinator](//github.com/JensTech/gitpullinator)
-  > Small react app to pull and compress only exactly what you want from a github repo
-  > **Language:** React Web, JS, A Little HTML
 - More to come soon
-  > I currently have like 5 more projects in the works, but don't have time!
-
-## experience
-i have worked on the site for my local archery club for a few years. 
-this helped me gain lots of css, js, html and php experience.
+  > i currently have so many more projects in the works, but don't have time for them, and when
+  > i do, i just can't get focused enough to start them 🤪
 
 ## contact
 [email](mailto:contact@jenstech.qzz.io)
-
-## meaningless stats
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=jenstech&layout=compact)](https://github.com/jenstech)
